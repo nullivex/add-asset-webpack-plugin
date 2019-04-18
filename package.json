@@ -36,6 +36,6 @@
 		"xo": "^0.24.0"
 	},
 	"peerDependencies": {
-		"webpack": "4.x"
+		"webpack": ">= 4"
 	}
 }
